@@ -1,1 +1,1 @@
-<bold>Comming sonn </bold>
+<b>Comming soon </b>
