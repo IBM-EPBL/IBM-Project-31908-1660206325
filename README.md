@@ -12,15 +12,15 @@ TECHNOLOGY : IOT
 TEAM ID : PNT2022TMID42891  
 <br>
 <br>
-# **👩‍👦TEAM MEMBERS**    
+# **👩‍👦TEAM MEMBERS**   
+<l>
 ```html  
-<ul>
 Bharath Kumar        
 Ezhumalai         
 Manigandan
 Shashankk
-</ul>
-```       
+```   
+</l>
 <br>
 # **📜PROJECT DESCRIPTION:**          
 Garbage level detection in bins.     
