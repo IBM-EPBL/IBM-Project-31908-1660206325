@@ -13,14 +13,12 @@ TEAM ID : PNT2022TMID42891
 <br>
 <br>
 # **👩‍👦TEAM MEMBERS**   
-<l>
 ```html  
 Bharath Kumar        
 Ezhumalai         
 Manigandan
 Shashankk
-```   
-</l>
+``` 
 <br>
 # **📜PROJECT DESCRIPTION:**          
 Garbage level detection in bins.     
