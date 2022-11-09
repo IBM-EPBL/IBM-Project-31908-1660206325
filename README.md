@@ -13,11 +13,13 @@ TEAM ID : PNT2022TMID42891
 <br>
 <br>
 # **👩‍👦TEAM MEMBERS**    
-```html                      
+```html  
+<ul>
 Bharath Kumar        
 Ezhumalai         
 Manigandan
 Shashankk
+</ul>
 ```       
 <br>
 # **📜PROJECT DESCRIPTION:**          
