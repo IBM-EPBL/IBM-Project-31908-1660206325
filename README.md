@@ -31,3 +31,6 @@ We can view the location of every bin in the web application by sending GPS loca
 # **🎯Skills Required:**        
 IBM Cloud,IBM Cloud Object Storage,Python,IBM Watson IoT Platform,Node-RED service,Cloudant DB.
 
+# **📹Final project video link:** 
+https://youtu.be/Lh8LkL2rJxE
+
