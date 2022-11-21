@@ -36,5 +36,5 @@ IBM Cloud,IBM Cloud Object Storage,Python,IBM Watson IoT Platform,Node-RED servi
   <button>
     <a href="https://youtu.be/Lh8LkL2rJxE">click here</a>
   </button>
-  </marquee>
+</marquee>
 
