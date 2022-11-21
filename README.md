@@ -32,9 +32,9 @@ We can view the location of every bin in the web application by sending GPS loca
 IBM Cloud,IBM Cloud Object Storage,Python,IBM Watson IoT Platform,Node-RED service,Cloudant DB.
 
 # **📹Final project video link:** 
-<marquee>
-  
+<button>
+  <marquee>
     <a href="https://youtu.be/Lh8LkL2rJxE">click here</a>
-  
-</marquee>
+  </marquee>
+</button>
 
